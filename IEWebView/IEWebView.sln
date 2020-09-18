@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEWebView", "IEWebView\IEWebView.csproj", "{F11AEB3A-1798-4E14-8E76-D356C34D636F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F11AEB3A-1798-4E14-8E76-D356C34D636F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{F11AEB3A-1798-4E14-8E76-D356C34D636F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{F11AEB3A-1798-4E14-8E76-D356C34D636F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{F11AEB3A-1798-4E14-8E76-D356C34D636F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{F11AEB3A-1798-4E14-8E76-D356C34D636F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{F11AEB3A-1798-4E14-8E76-D356C34D636F}.Debug|iPhone.Build.0 = Debug|iPhone
+		{F11AEB3A-1798-4E14-8E76-D356C34D636F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{F11AEB3A-1798-4E14-8E76-D356C34D636F}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
